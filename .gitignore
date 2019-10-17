@@ -1,5 +1,7 @@
 .idea
 *.pyc
-logs
+logs/*.log
 notes.md
 config.ini
+credentials.json
+*.pickle
