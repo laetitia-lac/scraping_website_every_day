@@ -9,5 +9,5 @@ def get_config(path_file: str):
     return config
 
 
-path_config_file = os.environ.get('FOULE_FACTORY_CONFIG', r'.\config.ini')
+path_config_file = os.environ.get('WEBSITE_SCRAPING_CONFIG', r'.\config.ini')
 config = get_config(path_config_file)

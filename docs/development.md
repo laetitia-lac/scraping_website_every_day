@@ -7,8 +7,8 @@
 * Should make sure that your SMTP connection is encrypted --> SSL (Secure Sockets Layer) and TLS (Transport Layer Security) are two protocols that can be used to encrypt an SMTP connection.
 
 ### Useful links
-* https://realpython.com/python-send-email/
-* https://developers.google.com/gmail/api/quickstart/python
+* To understand debug mode: https://realpython.com/python-send-email/
+* To configure (i.e. get credentials.json file) and understand production mode: https://developers.google.com/gmail/api/quickstart/python
 
 
 ## Scraping management
