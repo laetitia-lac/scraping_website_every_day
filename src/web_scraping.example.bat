@@ -1,4 +1,3 @@
-F:
-cd "F:\laela\Documents\Projects\TheFactory\"
-C:\Users\laela\AppData\Local\conda\conda\envs\py36_foule_factory\python.exe "F:\laela\Documents\Projects\TheFactory\src\app.py"
+cd <absolute_path_to_project_directory>
+<absolute_path_to_python_interpreter> <absolute_path_to_file_app.py>
 pause
